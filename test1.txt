@@ -1,1 +1,2 @@
 creatimg tyst1.txt file
+this is my nwe line
